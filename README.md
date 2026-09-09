@@ -1,10 +1,16 @@
-# Hi, I'm Dania 👋
+<div align="center">
 
-**Business Data Analytics student, moving toward fintech**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F6E52&height=180&section=header&text=Hi,%20I'm%20Dania%20👋&fontSize=40&fontColor=F0EEE6&animation=fadeIn" />
+
+<a href="https://dania-irfan.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&size=22&pause=1000&color=2F6E52&center=true&vCenter=true&width=500&lines=Business+Data+Analytics+Student;Moving+Toward+Fintech;SQL+%7C+Python+%7C+Excel" />
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2F6E52?style=for-the-badge&logo=vercel&logoColor=white)](https://dania-irfan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dania-irfan-b4668833a)
 [![Email](https://img.shields.io/badge/Email-B4863A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniairfan1812@gmail.com)
+
+</div>
 
 ---
 
@@ -31,4 +37,11 @@ Currently interning as an **AI-Powered Data Analysis Intern** at Excelerate (rem
 Business Data Analytics — COMSATS University Islamabad (CGPA 3.38/4.00)
 
 ---
+
+<div align="center">
+
 📫 Reach me at **daniairfan1812@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F6E52&height=100&section=footer" />
+
+</div>
