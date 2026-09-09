@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D6336C&height=180&section=header&text=Hi,%20I'm%20Dania%20👋&fontSize=40&fontColor=FFFFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=D6336C&height=150&section=header&text=Hi,%20I'm%20Dania&fontSize=38&fontColor=FFFFFF" />
 
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cartoon%20Cat%20Running.gif" width="110" />
 
@@ -63,6 +63,6 @@ Always looking to learn something new and add it to my portfolio ✨
 
 📫 Reach me at **daniairfan1812@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D6336C&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=D6336C&height=80&section=footer" />
 
 </div>
