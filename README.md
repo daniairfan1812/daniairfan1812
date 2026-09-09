@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=D6336C&height=150&section=header&text=Hi,%20I'm%20Dania&fontSize=38&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=D6336C&height=150&section=header&text=Hi,%20I'm%20Dania&fontSize=38&fontColor=FFFFFF&animation=scaleIn" />
 
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cartoon%20Cat%20Running.gif" width="110" />
 
