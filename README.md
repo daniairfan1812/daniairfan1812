@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F6E52&height=180&section=header&text=Hi,%20I'm%20Dania%20👋&fontSize=40&fontColor=F0EEE6&animation=fadeIn" />
 
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cartoon%20Cat%20Running.gif" width="120" />
+
 <a href="https://dania-irfan.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fraunces&size=22&pause=1000&color=2F6E52&center=true&vCenter=true&width=500&lines=Business+Data+Analytics+Student;Moving+Toward+Fintech;SQL+%7C+Python+%7C+Excel" />
 </a>
